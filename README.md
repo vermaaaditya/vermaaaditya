@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Aaditya Verma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=CSE+(AI%2FML)+Student+%F0%9F%A4%96;Robotics+%26+Automation+Enthusiast+%F0%9F%A6%BE;Builder+of+Things+That+Didn't+Exist+Before+%F0%9F%94%A5;Founder+%40+AUTONEX+Club+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1AC4ED&center=true&vCenter=true&width=600&lines=CSE+(AI%2FML)+Student+%F0%9F%A4%96;Robotics+%26+Automation+Enthusiast+%F0%9F%A6%BE;President+%40+AUTONEX+Club+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
