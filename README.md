@@ -22,11 +22,11 @@
 
 ### 🚀 Projects
 
-#### 🏢 College Placement Cell — Prototype
-> A working prototype of a digital placement cell system designed to bridge the gap between students and recruiters at the college level. Streamlines applications, company listings, and student profiles in one place.
+#### 🏢 SIET Panchkula's Training and Placement office web portal (Prototype)
+> A working prototype of web portal for Training and Placement office designed to bridge the gap between students and recruiters at the college level. Streamlines applications, company listings, and student profiles in one place.
 
 #### 🤖 AUTONEX — Robotics & Automation Club
-> Founded AUTONEX from the ground up in a college with no prior club culture. Built a community of tech enthusiasts around robotics, automation, and hands-on engineering projects. Breaking new ground, one circuit at a time.
+> Built a strong team and founded AUTONEX from the ground up in a college with no prior club culture. Built a community of tech enthusiasts around robotics, automation, and hands-on engineering projects. Breaking new ground, one circuit at a time.
 
 ---
 
