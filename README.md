@@ -32,7 +32,7 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="centre">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,sql,git,github&theme=dark" />
   <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain.png" width="48" height="48" />
 </p>
@@ -56,7 +56,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="centre">
   <a href="https://linkedin.com/in/aadityaverma2824" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Aaditya%20Verma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <i>"I don't wait for opportunities — I build the infrastructure for them."</i> 🔥
+  <i><b>"Building Things one step at a time."</b></i> 
 </p>
