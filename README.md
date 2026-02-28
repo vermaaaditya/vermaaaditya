@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vermaaaditya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316" height="165" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vermaaaditya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vermaaaditya&theme=radical" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vermaaaditya&theme=radical" height="165" />
 </p>
 
 <p align="center">
