@@ -36,9 +36,7 @@
   <img src="https://skillicons.dev/icons?i=python,cpp,html,sql,git,github&theme=dark" />
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-</p>
+
 
 ---
 
