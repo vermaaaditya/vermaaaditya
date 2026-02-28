@@ -33,7 +33,11 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,LangChain,sql,git,github,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,sql,git,github&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </p>
 
 ---
@@ -41,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vermaaaditya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vermaaaditya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vermaaaditya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vermaaaditya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F97316" height="165" />
 </p>
 
 <p align="center">
