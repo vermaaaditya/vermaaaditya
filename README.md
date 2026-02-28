@@ -34,6 +34,7 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,sql,git,github&theme=dark" />
+  <img src="https://unpkg.com/@lobehub/icons-static-png@latest/dark/langchain.png" width="48" height="48" />
 </p>
 
 
