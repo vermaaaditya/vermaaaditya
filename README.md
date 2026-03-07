@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 - 🎓 Studying **Computer Science Engineering (AI/ML)**
-- 🤖 Founded **AUTONEX** — a Robotics & Automation Club I built from scratch when zero club culture existed in college
+- 🤖 Founded **AUTONEX** — a Robotics & Automation Club Me and my team built from scratch when no club culture existed in college
 - 🏫 Built a **Placement Cell Prototype** for my college to streamline student-recruiter connections
 - 🔭 Currently exploring the intersection of **AI, ML, and real-world robotics**
 - 💡 I like building things that **don't exist yet**
