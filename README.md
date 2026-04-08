@@ -53,6 +53,13 @@
 </p>
 
 ---
+---
+
+### 🐍 Contribution Graph Snake
+
+<p align="center">
+  <img src="https://github.com/vermaaaditya/vermaaaditya/blob/output/snake.svg" alt="snake animation" />
+</p>
 
 ### 🌐 Connect with Me
 
